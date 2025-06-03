@@ -8,7 +8,8 @@ WON GA HEE
 
 # 💪Skills
 ### Platforms & Languages
-![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black)
+<img src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black" style="pointer-events: none;" />
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
@@ -36,6 +37,4 @@ WON GA HEE
 <br>
 
 # :mailbox_with_mail: Contacts
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:rkgml284@naver.com)
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)](https://gaing.tistory.com/)
+![Tistory](https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logoColor=white)(https://gaing.tistory.com/)
