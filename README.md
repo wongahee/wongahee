@@ -40,5 +40,7 @@ WON GA HEE
 
 <br>
 
+<!--
 # Blog
-![Tistory](https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logoColor=white) <span>https://gaing.tistory.com</span>
+![Tistory](https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logoColor=white) 
+-->
