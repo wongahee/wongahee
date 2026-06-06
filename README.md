@@ -1,7 +1,3 @@
-WON GA HEE
-================
-<br>
-
 # 💪Skills
 ### Platforms & Languages
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black)
