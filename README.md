@@ -17,9 +17,7 @@
 
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white)
-
 <br>
-
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
