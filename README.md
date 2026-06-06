@@ -18,7 +18,6 @@
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white)
 
-
 <br>
 
 ### Tools
@@ -30,10 +29,6 @@
 
 ![JupyterNotebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923.svg?&style=for-the-badge&logoColor=white)
-
-
-<br>
-
 <!--
 # Blog
 ![Tistory](https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logoColor=white) 
